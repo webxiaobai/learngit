@@ -13,7 +13,11 @@
 </template>
 
 <script>
+<<<<<<< HEAD
 	 import StoreHeader from './header/storeHeader'
+=======
+	 import StoreHeader from './header/storeHeader'
+>>>>>>> cffcdfa21565dd716edd0716132c3838991bccf4
 	 import homeConVue6 from './content/home_con6'
 export default {
   name: 'store',

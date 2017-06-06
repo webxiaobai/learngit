@@ -7,6 +7,7 @@
 
 <script>
 export default {
+
   name: 'app',
   data(){
 	return{
@@ -16,6 +17,7 @@ export default {
   methods:{
   
   }
+
 }
 </script>
 

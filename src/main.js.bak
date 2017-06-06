@@ -16,8 +16,4 @@ var root  = new Vue({
   	}
   }
 })
-<<<<<<< HEAD
 console.log(root.$data)
-=======
-//console.log(root.$data)
->>>>>>> cffcdfa21565dd716edd0716132c3838991bccf4

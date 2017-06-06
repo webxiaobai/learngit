@@ -7,7 +7,19 @@
 
 <script>
 export default {
+<<<<<<< HEAD
+  name: 'app',
+  data(){
+	return{
+		mag:"²âÊÔgit"
+	}
+  }
+  methods:{
+  
+  }
+=======
   name: 'app'
+>>>>>>> cffcdfa21565dd716edd0716132c3838991bccf4
 }
 </script>
 
