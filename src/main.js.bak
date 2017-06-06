@@ -16,4 +16,4 @@ var root  = new Vue({
   	}
   }
 })
-//console.log(root.$data)
+console.log(root.$data)
